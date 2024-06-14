@@ -3,8 +3,7 @@ The direct-vpc-egress-demo repository is a demonstration project designed to sho
 
 ## Setup Environment Variables
 
-You can set environment variables that will be used throughout this codelab.
-
+You can set environment variables that will be used throughout this demo.
 ```sh
 REGION=<YOUR_REGION, e.g. us-central1>
 FRONTEND=frontend
